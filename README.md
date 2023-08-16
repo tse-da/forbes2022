@@ -1,9 +1,9 @@
 # forbes2022
-## Description 
+### Description 
 This repository contains forbes 2022 billionaire dataset orignally sourced from Kaggle.
 Please download it and use it for the tseda test. 
 
-##Dataset Description
+### Dataset Description
 *Column Name* | Description
 --- | ---
 *Rank* | Rank of the billionaire according to their wealth
